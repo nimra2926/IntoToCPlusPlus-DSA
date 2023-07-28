@@ -1,0 +1,4 @@
+### Assignment 
+
+        Read document file
+
