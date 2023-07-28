@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/LABS/2022-fall-ce-dsa-week5-labtask-a-bsce21012/Functions.cpp
+Functions.h
+/cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/LABS/2022-fall-ce-dsa-week5-labtask-a-bsce21012/Functions.h
+
+/cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/LABS/2022-fall-ce-dsa-week5-labtask-a-bsce21012/Functions.h
+iostream
+-
+
+/cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/LABS/2022-fall-ce-dsa-week5-labtask-a-bsce21012/main.cpp
+iostream
+-
+Functions.h
+/cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/LABS/2022-fall-ce-dsa-week5-labtask-a-bsce21012/Functions.h
+
