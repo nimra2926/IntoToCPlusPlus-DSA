@@ -1,4 +1,4 @@
-# Install script for directory: /cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/2022_fall_week6_assignment6-bsce21012
+# Install script for directory: /cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/ASSIGNMENTS/2022_fall_week6_assignment6-bsce21012
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/2022_fall_week6_assignment6-bsce21012/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/ASSIGNMENTS/2022_fall_week6_assignment6-bsce21012/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

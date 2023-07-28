@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/2022_fall_week6_assignment6-bsce21012/main.cpp" "/cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/2022_fall_week6_assignment6-bsce21012/cmake-build-debug/CMakeFiles/2022_fall_week6_assignment6_bsce21012.dir/main.cpp.o"
+  "/cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/ASSIGNMENTS/2022_fall_week6_assignment6-bsce21012/main.cpp" "/cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/ASSIGNMENTS/2022_fall_week6_assignment6-bsce21012/cmake-build-debug/CMakeFiles/2022_fall_week6_assignment6_bsce21012.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

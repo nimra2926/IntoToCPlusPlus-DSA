@@ -1,4 +1,4 @@
-C:\Users\Lenovo\AppData\Local\JetBrains\CLion2021.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/2022_fall_week6_assignment6-bsce21012"
+C:\Users\Lenovo\AppData\Local\JetBrains\CLion2021.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/ASSIGNMENTS/2022_fall_week6_assignment6-bsce21012"
 -- The C compiler identification is GNU 11.3.0
 -- The CXX compiler identification is GNU 11.3.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@ C:\Users\Lenovo\AppData\Local\JetBrains\CLion2021.2\cygwin_cmake\bin\cmake.exe -
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/2022_fall_week6_assignment6-bsce21012/cmake-build-debug
+-- Build files have been written to: /cygdrive/f/ITU ALL DATA/SEMESTER 3/DATA STRUCTURE AND ALGORITHMS/ASSIGNMENTS/2022_fall_week6_assignment6-bsce21012/cmake-build-debug

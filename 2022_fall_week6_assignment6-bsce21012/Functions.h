@@ -6,7 +6,6 @@
 #define INC_2022_FALL_WEEK6_ASSIGNMENT6_BSCE21012_FUNCTIONS_H
 
 
-
 #include <iostream>
 using namespace std;
 
