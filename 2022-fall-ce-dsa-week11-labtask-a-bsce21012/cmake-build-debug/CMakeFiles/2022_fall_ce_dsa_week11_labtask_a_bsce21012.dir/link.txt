@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/2022_fall_ce_dsa_week11_labtask_a_bsce21012.dir/main.cpp.o -o 2022_fall_ce_dsa_week11_labtask_a_bsce21012.exe -Wl,--out-implib,lib2022_fall_ce_dsa_week11_labtask_a_bsce21012.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
